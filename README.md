@@ -17,5 +17,6 @@ Simple Interest = (P × R × T) / 100
 * Bash Shell Script
 * Linux Terminal
 
+this is b2
 ## Author
 Sanika Waghaskar
